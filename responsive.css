@@ -9,9 +9,9 @@
 .menu a {
   background-color:#87CEEB;
   padding:8px;
-  margin-top:7px;
+  margin-top:2px;
   display:block;
-  width:100%;
+  width:80%;
   color:black;
   text-decoration: none;
 }
@@ -42,8 +42,12 @@ a:hover{
 }
 #registrationForm{
   padding: 10% 30% 0% 30%;
+  width: 100%;
 }
 fieldset{
   text-align: center;
 }
- 
+#formtable{
+  padding: 0em 3em 0em 6em;
+}
+
